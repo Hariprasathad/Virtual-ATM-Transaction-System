@@ -12,7 +12,7 @@ app.secret_key = "your_secret_key_here"  # Replace with a strong secret key
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ragul.cs22",
+    password="7777",
     database="atm_system",
 )
 cursor = db.cursor()
